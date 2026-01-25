@@ -14,4 +14,4 @@ Apple Watch SE (left wrist)
 | Apple  |  145.41 | 97  | 181  |
 
 
-[overall](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/hr_plot.png)
+![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/hr_plot.png)
