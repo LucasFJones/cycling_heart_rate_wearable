@@ -9,6 +9,8 @@ Apple Watch SE (left wrist)
 
 | Wearable  | Average HR | Min HR | Max HR |
 | ------------- | ------------- | ------------- | ------------- |
-| Garmnin  | Content Cell  | Content Cell  | Content Cell  |
-| Whoop  | Content Cell  | Content Cell  | Content Cell  |
-| Apple  | Content Cell  | Content Cell  | Content Cell  |
+| Garmnin  | 145.39  |  94  | 180  |
+| Whoop  | 143.84  | 77  | 176  |
+| Apple  |  145.41 | 97  | 181  |
+
+
