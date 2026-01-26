@@ -23,5 +23,5 @@ Apple Watch SE (left wrist)
 #### Comparison Garmin vs Whoop
 ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/garmin_whoop_plot.png)
 
-
+# Outdoor ride comparison 
 
