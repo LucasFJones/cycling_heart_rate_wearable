@@ -6,7 +6,7 @@ Whoop 5.0 (right wrist)
 
 Apple Watch SE (left wrist)
 
-
+## Summary
 | Wearable  | Average HR | Min HR | Max HR |
 | ------------- | ------------- | ------------- | ------------- |
 | Garmnin  | 145.39  |  94  | 180  |
