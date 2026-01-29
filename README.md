@@ -17,15 +17,20 @@ Table 1. Summary data from trial 1.
 | Apple  |  145.41 | 97  | 181  |
 
 Figure 1. Heart rate data from all three devices from trial one. The second x-axis corresponds to power data monitored on the Peleton machine ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/hr_plot.png)
-Figure 2. Comparison between Garmin and Apple devices. ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/garmin_apple_plot.png)
-Figure 3. Comparison between Garmin and Whoop devices.  ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/garmin_whoop_plot.png)
+Figure 2. (a) Comparison between Garmin and Apple devices (b) Comparison between Garmin and Whoop devicesin trial one. ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/trial1_2panel_plot.png)
 
+Table 2. Summary data from trial 2.
+| Wearable  | Average HR | Min HR | Max HR |
+| ------------- | ------------- | ------------- | ------------- |
+| Wahoo  | 149.20  |  118  | 173  |
+| Whoop  | 145.39  | 93  | 169  |
+| Apple  |  151.81 |  96 |  176 |
+
+Figure 3. Heart rate data from all three devices from trial two. ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/trial2_hr_plot.png)
+Figure 4. a) Comparison between Garmin and Apple devices (b) Comparison between Garmin and Whoop devices in trial two. ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/trial2_2panel_plot.png)
 
 ## Discussion
-
-
-#### Summary Data
-
+Overall, the two trials show that the Whoop may report slightly lower heart rate when compared to Apple watches or chest strap (Garmin or Wahoo). However, it should be noted that Whoop in both trials was worn on right wrist, which should be investigated as an effect (further from heart). Specifically for exercise monitoring, chest strap devices (Garmin or Wahoo) may be the most accurate and cost effective. However, Whoop has added benefits of sleep tracking and stress monitoring, which can be considered for overall health.
 
 
 
