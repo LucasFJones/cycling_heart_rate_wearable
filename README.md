@@ -12,7 +12,7 @@ Trial two was conducted on a road bicycle outside. Heart rate was monitored usin
 Table 1. Summary data from trial 1.
 | Wearable  | Average HR | Min HR | Max HR |
 | ------------- | ------------- | ------------- | ------------- |
-| Garmnin  | 145.39  |  94  | 180  |
+| Garmin  | 145.39  |  94  | 180  |
 | Whoop  | 143.84  | 77  | 176  |
 | Apple  |  145.41 | 97  | 181  |
 
