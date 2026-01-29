@@ -32,5 +32,5 @@ Figure 4. a) Comparison between Garmin and Apple devices (b) Comparison between 
 ## Discussion
 Overall, through two trials it was revealed that the Whoop may report slightly lower heart rate when compared to Apple watches or chest strap (Garmin or Wahoo). However, it should be noted that Whoop in both trials was worn on right wrist, which should be investigated as an effect (further from heart). Specifically for exercise monitoring, chest strap devices (Garmin or Wahoo) may be the most accurate and cost effective. However, Whoop has added benefits of sleep tracking and stress monitoring, which can be considered for overall health.
 
-
-
+## acknowledgment 
+I would like to thank DTL for the Whoop encouragment. May our whoop group live on. I would like to thank SJH for rehousing my Apple watch, may your steps be tracked. I would like to thank JCJ for being a critical eye, hopefully your Oura is okay. I would like to thank JFJ for joing Whoop, my brave follower. Thank you to MEJ for being you. I would not like to thank the migraine I had during this.
