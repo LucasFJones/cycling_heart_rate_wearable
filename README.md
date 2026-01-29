@@ -15,6 +15,7 @@ Table 1. Summary data from trial 1.
 | Garmnin  | 145.39  |  94  | 180  |
 | Whoop  | 143.84  | 77  | 176  |
 | Apple  |  145.41 | 97  | 181  |
+
 Figure 1. Heart rate data from all three devices from trial one. The second x-axis corresponds to power data monitored on the Peleton machine ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/hr_plot.png)
 Figure 2. Comparison between Garmin and Apple devices. ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/garmin_apple_plot.png)
 Figure 3. Comparison between Garmin and Whoop devices.  ![whole](https://github.com/LucasFJones/cycling_heart_rate_wearable/blob/main/plots/garmin_whoop_plot.png)
